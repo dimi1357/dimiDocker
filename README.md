@@ -20,4 +20,5 @@ chmod +x build_docker.sh
 chmod +x run_docker.sh
 ./run_docker.sh
 ```
+Modified version of amir avni docker. 
 # dimiDocker
